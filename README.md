@@ -23,5 +23,5 @@ robot towards successful insertion with iterative refinement
 
 # Introduction
 
-This repo supports the simulated data to plot the figures in our paper.
+This repo supports the simulated data and the code to plot the figures in our paper.
 
