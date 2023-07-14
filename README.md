@@ -1,7 +1,8 @@
-# drake-for-Robotic-Insertion
+# title
 A Planning Framework for Robotic Insertion Tasks via Hydroelastic Contact Model
 
-Abstract: Robotic contact-rich insertion tasks present a significant challenge for motion planning
+# Abstract: 
+Robotic contact-rich insertion tasks present a significant challenge for motion planning
 due to the complex force interaction between robots and objects. Although many learning-based
 methods have shown success in contact tasks, most methods need sampling or exploring to gather
 sufficient experimental data. However, it is both time-consuming and expensive to conduct real-
@@ -19,4 +20,8 @@ hydroelastic contact model, the motion trajectory generated in planning is capab
 robot towards successful insertion with iterative refinement
 
 ![test result rollout =1](https://github.com/lllllyang/drake-for-Robotic-Insertion/assets/110092628/082d7d07-e6e9-4b3f-b884-0b485e73908e)
+
+# Introduction
+
+This repo supports the simulated data to plot the figures in our paper.
 
