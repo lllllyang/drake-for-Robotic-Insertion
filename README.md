@@ -19,7 +19,8 @@ our contact results with a benchmark Peg-in-Hole task. Using these integrated DM
 hydroelastic contact model, the motion trajectory generated in planning is capable of guiding the
 robot towards successful insertion with iterative refinement
 
-![test result rollout =1](https://github.com/lllllyang/drake-for-Robotic-Insertion/assets/110092628/082d7d07-e6e9-4b3f-b884-0b485e73908e)
+![test result rollout =1](https://github.com/lllllyang/drake-for-Robotic-Insertion/assets/110092628/31c17163-857f-4e2a-adc5-354bd495a6e1)
+
 
 # Introduction
 
