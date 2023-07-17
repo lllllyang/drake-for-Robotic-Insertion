@@ -1,5 +1,4 @@
-# title
-A Planning Framework for Robotic Insertion Tasks via Hydroelastic Contact Model
+# Planning Framework for Robotic Insertion Tasks via Hydroelastic Contact Model
 
 # Abstract: 
 Robotic contact-rich insertion tasks present a significant challenge for motion planning
@@ -24,5 +23,5 @@ robot towards successful insertion with iterative refinement
 
 # Introduction
 
-This repo supports the simulated data and the code to plot the figures in our paper.
+This repo supports the simulated data and the code to plot the figures in our paper, and a matlab file for applying Whitney's theory.
 
